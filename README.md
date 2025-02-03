@@ -6,7 +6,7 @@ Welcome to Useful Scripts – a collection of handy Bash scripts to automate com
 
 <h3>Clone the repository</h3>
 
-git clone https://github.com/your-username/useful-scripts.git <br>
+git clone https://github.com/GeorgiosDrivas/useful-scripts.git <br>
 cd useful-scripts
 
 <h3>Make a script executable</h3>
@@ -16,6 +16,8 @@ chmod +x script.sh
 <h3>Run the script</h3>
 
 ./script.sh
+
+- Make sure the script does not require any arguments before running it.
 
 <h2>🤝 Contributing</h2>
 
